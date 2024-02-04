@@ -1,4 +1,4 @@
-name: deep3d_pytorch
+name: AlignFace
 channels:
   - pytorch3d
   - pytorch
